@@ -508,10 +508,10 @@ bookshelf-simplepaginate@^0.0.2:
   resolved "https://registry.yarnpkg.com/bookshelf-simplepaginate/-/bookshelf-simplepaginate-0.0.2.tgz#e8d15a827f3842a1470dc50d20292c61eb112fc7"
   integrity sha1-6NFagn84QqFHDcUNICksYesRL8c=
 
-bookshelf@^1.1.1:
-  version "1.1.1"
-  resolved "https://registry.yarnpkg.com/bookshelf/-/bookshelf-1.1.1.tgz#afa1e15871438bdb1b2d7b3adb654dac4f641c90"
-  integrity sha512-swHlUoCSBv7lS5P6Sbc3zTo64L8Yal98H7v/d1pJLrQLZjiJYjzsdEwnBmnbIr2zDEAZhJW3OZSJFj8ps6o9pQ==
+bookshelf@^1.2.0:
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/bookshelf/-/bookshelf-1.2.0.tgz#cb972aa2316405d3a4af9cb1e2814895ab23283e"
+  integrity sha512-rm04YpHkLej6bkNezKUQjzuXV30rbyEHQoaKvfQ3fOyLYxPeB18uBL+h2t6SmeXjfsB+aReMmbhkMF/lUTbtMA==
   dependencies:
     bluebird "^3.7.2"
     create-error "~0.3.1"
