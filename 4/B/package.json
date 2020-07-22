@@ -5,7 +5,7 @@
     "bookshelf-simplepaginate": "^0.0.2",
     "ejs": "^3.0.2",
     "express": "^4.17.1",
-    "knex": "^0.20.15",
+    "knex": "^0.21.1",
     "multer": "^1.4.2",
     "sqlite3": "^4.2.0",
     "snyk": "^1.349.0"
